@@ -24,11 +24,4 @@ Explain how to run the notebook, including any important steps or considerations
 3. Open the notebook in Jupyter Lab or Google Colab.
 4. Run the cells in order.
 
-## Examples and Output
-Show some examples of input and output, if applicable. Screenshots or code blocks with example output can be helpful here.
 
-## Additional Notes
-Include any additional information like links to datasets, references to papers or articles, etc.
-
-## Contact
-Add your contact information or GitHub profile link for others to reach out if they have questions.
