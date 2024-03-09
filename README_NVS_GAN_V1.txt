@@ -12,7 +12,7 @@ The NVS_GAN_V1 notebook demonstrates the implementation and training of a Genera
 
 ## Usage
 1. Clone the repository containing the notebook.
-2. Install the required libraries as mentioned in the 'Installation' section.
+2. Install the required libraries.
 3. Open the notebook in Jupyter Lab or Google Colab.
 4. Run the cells in order.
 
